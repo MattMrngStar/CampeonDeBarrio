@@ -1,0 +1,15 @@
+/Users/mateobaronbotero/Projects/CampeonDeBarrio/CampeonDeBarrio/bin/Debug/net5.0/CampeonDeBarrio.deps.json
+/Users/mateobaronbotero/Projects/CampeonDeBarrio/CampeonDeBarrio/bin/Debug/net5.0/CampeonDeBarrio.runtimeconfig.json
+/Users/mateobaronbotero/Projects/CampeonDeBarrio/CampeonDeBarrio/bin/Debug/net5.0/CampeonDeBarrio.runtimeconfig.dev.json
+/Users/mateobaronbotero/Projects/CampeonDeBarrio/CampeonDeBarrio/bin/Debug/net5.0/CampeonDeBarrio.dll
+/Users/mateobaronbotero/Projects/CampeonDeBarrio/CampeonDeBarrio/bin/Debug/net5.0/ref/CampeonDeBarrio.dll
+/Users/mateobaronbotero/Projects/CampeonDeBarrio/CampeonDeBarrio/bin/Debug/net5.0/CampeonDeBarrio.pdb
+/Users/mateobaronbotero/Projects/CampeonDeBarrio/CampeonDeBarrio/obj/Debug/net5.0/CampeonDeBarrio.csproj.AssemblyReference.cache
+/Users/mateobaronbotero/Projects/CampeonDeBarrio/CampeonDeBarrio/obj/Debug/net5.0/CampeonDeBarrio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateobaronbotero/Projects/CampeonDeBarrio/CampeonDeBarrio/obj/Debug/net5.0/CampeonDeBarrio.AssemblyInfoInputs.cache
+/Users/mateobaronbotero/Projects/CampeonDeBarrio/CampeonDeBarrio/obj/Debug/net5.0/CampeonDeBarrio.AssemblyInfo.cs
+/Users/mateobaronbotero/Projects/CampeonDeBarrio/CampeonDeBarrio/obj/Debug/net5.0/CampeonDeBarrio.csproj.CoreCompileInputs.cache
+/Users/mateobaronbotero/Projects/CampeonDeBarrio/CampeonDeBarrio/obj/Debug/net5.0/CampeonDeBarrio.dll
+/Users/mateobaronbotero/Projects/CampeonDeBarrio/CampeonDeBarrio/obj/Debug/net5.0/ref/CampeonDeBarrio.dll
+/Users/mateobaronbotero/Projects/CampeonDeBarrio/CampeonDeBarrio/obj/Debug/net5.0/CampeonDeBarrio.pdb
+/Users/mateobaronbotero/Projects/CampeonDeBarrio/CampeonDeBarrio/obj/Debug/net5.0/CampeonDeBarrio.genruntimeconfig.cache
